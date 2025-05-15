@@ -61,3 +61,18 @@ Este projeto está sob a licença **MIT**. Fique à vontade para usar, estudar, 
 
 ```bash
 git clone https://github.com/SeuUsuario/animated-login-page.git
+```
+
+## 📌 Captura de Tela
+![image](https://github.com/user-attachments/assets/4f2fc607-b5ef-46e4-ba02-02e7bcae8cfa)
+
+![image](https://github.com/user-attachments/assets/db4055af-0c3a-4898-8684-6e4fb8aa7f93)
+
+## Contato
+Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
+
+- **E-mail:** johnatan.reiiss@icloud.com
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+
+Obrigado por visitar este repositório! Espero que goste do projeto. 🚀
