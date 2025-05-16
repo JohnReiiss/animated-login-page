@@ -55,13 +55,16 @@ Este projeto está sob a licença **MIT**. Fique à vontade para usar, estudar, 
 
 ---
 
-## 🚀 Como Usar
+## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-
 ```bash
-git clone https://github.com/SeuUsuario/animated-login-page.git
+git clone https://github.com/seu-usuario/solo-leveling-gallery.git
 ```
+
+2. Abra o arquivo `index.html` no seu navegador preferido
+
+3. Ou acesse online: [Link para Deploy](#) *(https://johnreiiss.github.io/animated-login-page/)*
 
 ## 📌 Captura de Tela
 ![image](https://github.com/user-attachments/assets/4f2fc607-b5ef-46e4-ba02-02e7bcae8cfa)
