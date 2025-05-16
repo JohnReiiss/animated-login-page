@@ -71,11 +71,13 @@ git clone https://github.com/seu-usuario/solo-leveling-gallery.git
 
 ![image](https://github.com/user-attachments/assets/db4055af-0c3a-4898-8684-6e4fb8aa7f93)
 
-## Contato
-Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
+## ✉️ Contato
 
+- **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
-- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
-- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
+
+---
 
 Obrigado por visitar este repositório! Espero que goste do projeto. 🚀
